@@ -18,6 +18,10 @@ Date::Qreki - convert Gregorian to Japanese "kyureki" dates.
 
 =head1 AUTHOR
 
+H. Takano, N. Ueno.
+
+
+
 =cut
 
 package Date::Qreki;
@@ -26,7 +30,7 @@ require Exporter;
 @EXPORT_OK = qw/calc_kyureki get_rokuyou/;
 use warnings;
 use strict;
-our $VERSION = 0.01;
+our $VERSION = 0.02;
 
 #=========================================================================
 # 旧暦計算サンプルプログラム  $Revision:   1.1  $
