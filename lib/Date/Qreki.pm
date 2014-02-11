@@ -1,8 +1,17 @@
+=encoding UTF-8
+
 =head1 NAME
 
 Date::Qreki - convert Gregorian to Japanese "kyureki" dates.
 
 =head1 SYNOPSIS
+
+This module is currently undocumented, so to use it you need to read
+the source code. If you are interested in helping write documentation
+for the module or would like to discuss, please contact the module
+author or visit
+L<Questhub|http://questhub.io/realm/perl/quest/5249010053a57fbb3b00002e>
+and vote for this project.
 
 =head1 DESCRIPTION
 
@@ -82,12 +91,16 @@ consent or notify the author.
 
 End of translation.
 
-The original scripts are in F<originals> in the distribution.
+The original Awk script and its documentation are in F<originals> in
+the distribution.
 
 =head1 AUTHOR
 
 Original Awk script by H. Takano. Perl conversion by N. Ueno. This
 CPAN-ification of N. Ueno's Perl script was performed by Ben Bullock.
+
+For enquiries about this Perl module, please contact Ben Bullock
+<bkb@cpan.org>.
 
 =cut
 
@@ -97,7 +110,7 @@ require Exporter;
 @EXPORT_OK = qw/calc_kyureki get_rokuyou/;
 use warnings;
 use strict;
-our $VERSION = 0.03;
+our $VERSION = 0.04;
 
 #=========================================================================
 # 旧暦計算サンプルプログラム  $Revision:   1.1  $

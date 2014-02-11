@@ -1,5 +1,10 @@
 Revision history for perl module Date::Qreki
 
+0.04 2014-02-11
+
+* Fix problem with POD encoding.
+* Add note on module's lack of documentation.
+
 0.03 2014-02-11
 
 * Add licence conditions to POD in Japanese and translated.
