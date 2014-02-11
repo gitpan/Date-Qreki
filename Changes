@@ -1,5 +1,10 @@
 Revision history for perl module Date::Qreki
 
+0.03 2014-02-11
+
+* Add licence conditions to POD in Japanese and translated.
+* Add original files to distribution as per licence conditions.
+
 0.02 2014-02-07
 
 * Add "Changes" and "README" to distribution.
