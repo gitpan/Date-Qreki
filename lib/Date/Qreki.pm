@@ -89,7 +89,7 @@ any restrictions by your redistribution.
 In any case, there is absolutely no need to obtain the author's
 consent or notify the author.
 
-End of translation.
+End of artistic translation.
 
 The original Awk script and its documentation are in F<originals> in
 the distribution.
@@ -110,7 +110,7 @@ require Exporter;
 @EXPORT_OK = qw/calc_kyureki get_rokuyou/;
 use warnings;
 use strict;
-our $VERSION = 0.04;
+our $VERSION = 0.05;
 
 #=========================================================================
 # 旧暦計算サンプルプログラム  $Revision:   1.1  $

@@ -6,7 +6,7 @@
                                                      
 
 
-This is the README for Date::Qreki version 0.04.
+This is the README for Date::Qreki version 0.05.
 
 Date::Qreki is a "module" for the Perl computer programming language, a library
 of computer code to install on a computer.  This document contains four
@@ -58,11 +58,11 @@ If you have the App::cpanminus installer, you may prefer
 
     cpanm Date::Qreki
 
-To install the module from the source file, Date-Qreki-0.04.tar.gz, follow this
+To install the module from the source file, Date-Qreki-0.05.tar.gz, follow this
 sequence of commands:
 
-    tar xfz Date-Qreki-0.04.tar.gz
-    cd Date-Qreki-0.04
+    tar xfz Date-Qreki-0.05.tar.gz
+    cd Date-Qreki-0.05
     perl Makefile.PL
     make
     make install
@@ -87,6 +87,6 @@ repository on github at
 
 -----------------------------------------------------------------------------
 
-This README was written on Tue Feb 11 12:04:02 2014.
+This README was written on Wed Feb 12 09:38:54 2014.
 
 -----------------------------------------------------------------------------
